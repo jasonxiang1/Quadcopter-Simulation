@@ -11,4 +11,5 @@ constraints
 # Instructions to Run
 1. Download source into local machine through git clone
 2. Open main.m file in code/ directory in MATLAB
-3. To run the simulation, the main file takes in one integer argument. The integer value of the argument corresponds to the question number in the project prompt that the program demonstrates.
+3. To run the simulation, the main file takes in one integer argument. The integer value of the argument corresponds to the question number in the project prompt that the program demonstrates. A breakdown of what each argument is about is shown below:
+    1. test
